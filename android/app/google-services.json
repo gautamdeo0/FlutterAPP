@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "193737354174",
+    "project_id": "signup-813b6",
+    "storage_bucket": "signup-813b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193737354174:android:2f45dca6bf20ea9826a7ef",
+        "android_client_info": {
+          "package_name": "com.example.healthsync_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Jk44qY3N24OkYoA7EVK_XiUmqhsUV94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193737354174:android:afb8156e50d2d39426a7ef",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Jk44qY3N24OkYoA7EVK_XiUmqhsUV94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
